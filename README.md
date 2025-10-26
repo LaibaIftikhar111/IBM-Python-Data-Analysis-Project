@@ -1,27 +1,44 @@
-# IBM Python Data Analysis Project
+## IBM Python Data Analysis & Web Scraping Projects
 
-This project was completed as part of the **IBM Python for Data Science and AI** course on **Coursera**.
+These projects were completed as part of the **IBM Python for Data Science and AI** course on **Coursera**, offered by IBM.  
+The work demonstrates core skills in **data analysis, web scraping, and REST API access** using Python.
 
-## 🧠 Objective
-To develop foundational skills in **data loading, cleaning, and analysis** using Python and Pandas.
+---
+
+## 🎯 Objective
+To develop hands-on experience in:
+- Loading and analyzing data using **Pandas** and **NumPy**  
+- Extracting and processing web-based data using **APIs** and **BeautifulSoup**  
+- Automating basic data workflows with **Python scripting**
+
+---
 
 ## 🧰 Tools & Libraries
-- Python  
-- Pandas  
-- NumPy  
-- Jupyter Notebook  
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Requests**
+- **BeautifulSoup**
+- **Jupyter Notebook**
 
-## 📊 Project Summary
-In this project, I learned how to:
-- Load datasets using Pandas  
-- Perform data exploration and manipulation  
-- Handle different file formats (CSV, Excel, JSON)  
-- Perform basic data analysis operations  
+---
 
-## 📁 Files in this Repository
-- `PY0101EN-4-3-LoadData-20230424-1682294400.ipynb`: The main Jupyter Notebook file for this project.  
-- `README.md`: Project documentation.  
+## 📊 Projects Included
 
-## 🎓 Course
-This hands-on lab was completed as part of the **IBM Python for Data Science and AI** course on **Coursera**.
+### 1️⃣ Loading Data with Pandas
+- Loaded and explored datasets using Pandas.  
+- Handled multiple file formats: CSV, Excel, and JSON.  
+- Practiced data cleaning, selection, and manipulation operations.  
+📄 **File:** `Loading_Data_with_Pandas.ipynb`
 
+---
+
+### 2️⃣ Accessing REST APIs & Web Scraping
+- Used the `requests` library to retrieve data from REST APIs.  
+- Performed basic web scraping with `BeautifulSoup`.  
+- Extracted and structured online data for analysis.  
+📄 **File:** `Web_Scraping_and_API_Lab.ipynb`
+
+---
+
+## 📁 Repository Structure
